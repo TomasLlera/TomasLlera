@@ -25,9 +25,9 @@
 
 <p align="center">
   - 👨🏽‍💻 I am currently a second-year student at the Idra Musical Institute, in the higher technical degree in software development.<br>
-  - 🌱 I am currently beginning to explore JAVA with a great interest in this language and everything that it entails.<br>
+  - 🌱 I am currently beginning to explore Java, JavaScript and, in a future, Python. With a great interest in this language's and everything that it entails.<br>
   - 🤔 My interest is in trying to make programs that are very useful!<br>
-  - 💬 Ask me about programming in general, I am always available to help and learn together.<br>
+  - 💬 I am always available to help and learn together.<br>
   - 📫 Email me at <a href="mailto:tomasllera95@gmail.com">tomasllera95@gmail.com</a>.
 </p>
 
